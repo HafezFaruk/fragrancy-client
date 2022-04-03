@@ -1,0 +1,32 @@
+.add-product form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.add-product form input,textarea{
+    margin: 10px;
+    width: 60%;
+    padding: 5px 10px 5px;
+    text-align: left;
+}
+.add-product form select{
+    width: 60%;
+    padding: 10px;
+}
+.add-product form textarea{
+    margin: 20px;
+}
+
+.add-product .submit-btn{
+    background-color: rgb(63, 197, 162);
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    width: 20%;
+    transition: all 0.5s ease-in-out;
+}
+.add-product .submit-btn:hover{
+    background-image: linear-gradient(to top, rgba(5, 5, 5, 0.926), rgb(65, 65, 65));
+    color: white;
+}

@@ -1,0 +1,35 @@
+.dashboard-area {
+    background: rgb(42, 39, 43);
+    height: 100vh;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 30px;
+  }
+  .dashboard-container {
+    overflow-x: hidden;
+  }
+  .dashboard a{
+      text-decoration: none;
+      color:rgb(242, 237, 236);
+      text-align: justify;
+  }
+  .dashboard-menu{
+    list-style: none;
+    cursor: pointer;
+    margin-top: 18px;
+    text-align: left;
+  }
+  li{
+    list-style: none;
+  }
+ 
+  .icon{
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  .dashboard-menu:hover {
+    color: rgb(221, 83, 41);
+  }
+  .icon:hover{
+    color: rgb(225, 91, 50);
+  }

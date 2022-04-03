@@ -1,0 +1,12 @@
+.banner-section{
+    background: url('../../image/s2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    color: white;
+    padding: 20px;
+}
+.banner-text{
+    text-align: justify;
+}

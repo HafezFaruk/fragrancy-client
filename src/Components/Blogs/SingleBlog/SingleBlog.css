@@ -1,0 +1,9 @@
+.blog-card{
+    border: none !important;
+}
+.blog-body{
+    background-color:rgb(12,12,12) ;
+    border: none;
+    text-align: center;
+    color: rgb(158, 154, 154);
+}

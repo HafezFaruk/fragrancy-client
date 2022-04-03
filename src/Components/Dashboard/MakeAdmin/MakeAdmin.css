@@ -1,0 +1,17 @@
+.admin-form form input{
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.admin-form button{
+width: 20%; 
+   padding: 10px;
+   color: white;
+   font-weight: 500;
+   border: 1px solid rgb(65, 64, 64);
+    background-image: linear-gradient(to top, rgba(5, 5, 5, 0.926), rgb(65, 65, 65));
+}
+.admin-form button:hover{
+    background-image: linear-gradient(to top, rgb(65, 65, 65),rgba(5, 5, 5, 0.926) );
+}

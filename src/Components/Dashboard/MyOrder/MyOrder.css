@@ -1,0 +1,9 @@
+.order-product table{
+    color: white ;
+}
+.delete-icon{
+    color:rgb(201, 5, 5);
+}
+.delete-icon:hover{
+    cursor: pointer;
+}

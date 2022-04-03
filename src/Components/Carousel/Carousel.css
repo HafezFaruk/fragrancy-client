@@ -1,0 +1,31 @@
+.carousel{
+    overflow: hidden;
+}
+.carousel-img{
+    margin: 10px;
+}
+.carousel-img img{
+    border-radius: 5px;
+    margin: auto;
+    height: 170px;
+    width: 300px;
+}
+.carousel-img:hover img{
+    transform: scale(1.05);
+    transition: transform 0.5s ease-in-out;
+    cursor: pointer;
+}
+*{
+    box-sizing: border-box;
+}
+.category-wrap{
+    position: relative;
+}
+.category-wrap .box-content{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+

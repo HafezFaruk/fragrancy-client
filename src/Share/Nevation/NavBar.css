@@ -1,0 +1,48 @@
+.header-section{
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+.icon{
+    font-size: 30px;
+    margin-left: 20px;
+    color: gray;
+}
+.icon:hover{
+    color: white;
+    transition: color 0.4s ease-in-out;
+}
+.search-box{
+    background-color: white;
+    border: 1px solid rgb(123, 119, 119);
+    border-radius: 15px 15px 15px 15px;
+    padding: 0 10px 0 0;
+}
+.search-box button{
+    border: none;
+    padding: 5px 20px 5px;
+    background-color: black;
+    color:white;
+    border-radius: 15px 0px 0px 15px;
+}
+.search-box input{
+    border: none;
+    padding: 0px 20px ;
+}
+.menu-bar a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.menu-bar a:hover{
+    color: gray;
+    transition: color 0.3s ease-in-out;
+}
+.display-name{
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight:500;
+}
