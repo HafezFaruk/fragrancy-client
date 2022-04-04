@@ -1,6 +1,6 @@
 # Perfume Store
 
-Perfume Store Client site[Perfume Store](https://fragrancy-3e63e.web.app/).
+Perfume Store Client site[Fragrancy](https://fragrancy-25664.web.app/).
 
 ## About Our Shop
 

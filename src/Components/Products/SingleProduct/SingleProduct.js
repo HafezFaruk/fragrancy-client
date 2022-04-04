@@ -12,14 +12,14 @@ const SingleProduct = () => {
 
   const [productDetails, setProductsDetails] = useState({});
   useEffect(() => {
-    fetch(`https://radiant-shore-26920.herokuapp.com/products/${id}`)
+    fetch(`https://safe-tor-91730.herokuapp.com/products/${id}`)
       .then((res) => res.json())
       .then((data) => setProductsDetails(data));
   }, [id]);
 
   const { register, handleSubmit, reset } = useForm();
   const onSubmit = (data) => {
-    fetch("https://radiant-shore-26920.herokuapp.com/orders", {
+    fetch("https://safe-tor-91730.herokuapp.com/orders", {
       method: "POST",
       headers: {
         "content-type": "application/json",

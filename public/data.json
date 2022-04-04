@@ -1,0 +1,73 @@
+[
+{
+"productName": " CACHAREL",
+"productImage": "https://i.ibb.co/GQN96Z9/6.jpg",
+"productDescription": "Cacharel makes a passionate declaration of love twice over Amor Amor. The passionate fragrance of impulse and desire.",
+"ratin"  : "4.2",
+"price": "130",
+"Color": "red"
+},
+{
+
+"productName": "FERRARI FRAGRANCES",
+"productImage": "https://i.ibb.co/xsZ3NH7/8.jpg",
+"productDescription": "Ferrari Black, a fragrance that allows you to experience the vibrant and cool lifestyle of a Ferrari driver.The top accord releases an exciting strength: a harmony of citrus notes",
+"rating": "4.5",
+"price": "180",
+"Color": "block"
+},
+{
+
+"productName": " BEAUTYPRO",
+"productImage": "https://i.ibb.co/vLCKsMZ/9.jpg",
+"productDescription": "The BeautyPro Hydrating Serum with Hyaluronic Acid uses all natural ingredients to powerfully lock in moisture and provide the skin with deep nourishment.",
+"rating": "3.5",
+"price": "160",
+"Color": "pink"
+},
+{
+
+"productName": "Cheryl Cole",
+"productImage": "https://i.ibb.co/zfn8Lv0/10.jpg",
+"productDescription": "Cheryl Cole Stormflower Noir is a floral-fruity fragrance for women. A glamorous addition to Cheryl's Stormflower fragrance line.",
+"rating": "4.2",
+"price": "190",
+"Color": "block"
+},
+{
+
+"productName": "Issey Miyake",
+"productImage": "https://i.ibb.co/SxY83mr/11.jpg",
+"productDescription": "L'eau d'Issey, meaning the life water of Issey Miyake in French is as fresh as spring water, with soft florals and sensual woods.",
+"rating": "5",
+"price": "180",
+"Color": "blue"
+},
+{
+
+"productName": "Michael Kors",
+"productImage": "https://i.ibb.co/DzrHHfw/12.jpg",
+"productDescription": "Escapism is at the heart of Wonderlust; transporting you to that ultimate paradise destination. This exotic scent blends luxurious blossoms, mingled with delectably spiced notes.",
+"rating": "4",
+"price": "170",
+"Color": "pink"
+},
+{
+
+"productName": "ARIANA GRANDE",
+"productImage": "https://i.ibb.co/v3rr3JF/13.jpg",
+"productDescription": "Pop singer Ariana Grande launches her first fragrance, Ari. Announced as a luscious, sexy fragrance opening with sparkling fruity notes, with an ultra-feminine floral heart, on a base of musk, woods, and marshmallow.",
+"rating": "4.5",
+"price": "160",
+"Color": "pink"
+},
+{
+
+"productName": " PAUL SMITH",
+"productImage": "https://i.ibb.co/XjwYNh4/14.jpg",
+"productDescription": "Paul Smith Rose is a potently fragrant fresh, modern and memorable scent. The feminine Rose at the heart of this fragrance bears Paul Smith’s name. It was cultivated and given as a gift from Paul’s wife for his birthday, thus inspiring this fragrance.",
+"rating": "4.3",
+"price": "190",
+"Color": "block"
+}
+]
