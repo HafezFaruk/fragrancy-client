@@ -3,7 +3,7 @@ import { Container, Table } from "react-bootstrap";
 
 const ManageOrder = () => {
   const [orders, setOrders] = useState([]);
-  const [isDelete, setIsDelete] = useState(null);
+  const [ setIsDelete] = useState(null);
 
   useEffect(() => {
     fetch("https://safe-tor-91730.herokuapp.com/order")
